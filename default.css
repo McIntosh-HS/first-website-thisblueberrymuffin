@@ -1,0 +1,41 @@
+body {
+	background-color:  blanchedalmond;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #A42CF2;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+
+}
+
+.button1 {
+	background-color: #490975;
+	color: white;
+	border: 2px solid #6a09aa;
+}
+
+.button:hover {
+	background-color: #6a09aa;
+	color: white;
+}
+
+img.candy {
+	display: block; 
+	width: 45%;
+	margin: 20px;
+}
